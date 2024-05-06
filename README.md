@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 "大道之行也，天下为公，选贤与能，讲信修睦。"  
-I hope AI can make efforts in this regard.  

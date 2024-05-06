@@ -1,4 +1,4 @@
-### Hi there 👋, This is xiaoli.
+### Hi there 👋, this is xiaoli.
 
 <!--
 **xlsay/xlsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
